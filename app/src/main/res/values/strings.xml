@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MobileTechIgelmund</string>
+    <string name="quitMessage">Wirklich Beenden</string>
+    <string name="quit">Beenden</string>
+    <string name="PinPrefsKey" />
+</resources>
